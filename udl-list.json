@@ -2421,10 +2421,10 @@
       "id-name": "OpenRails_by_wmuzeke",
       "display-name": "Open Rails",
       "version": "2026-02-16",
-      "repository": "",
+      "repository": "UDLs/OpenRails.xml",
       "description": "Open Rails Train Simulator (ORTS) config files",
-      "author": "wmuzeke"
-    },
+      "author": "wmuzeke <mailto:david.safdy@gmail.com>"
+    }
     {
       "id-name": "OptiStruct_byHermannHoefer",
       "display-name": "OptiStruct",
@@ -3956,3 +3956,4 @@
     }
   ]
 }
+
