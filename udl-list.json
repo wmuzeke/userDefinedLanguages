@@ -2424,6 +2424,7 @@
       "repository":
       "description": "Open Rails Train Simulator (ORTS) config files",
       "author": "wmuzeke <mailto:david.safdy@gmail.com>"
+      "sample": true
     }
     {
       "id-name": "OptiStruct_byHermannHoefer",
@@ -3956,5 +3957,6 @@
     }
   ]
 }
+
 
 
